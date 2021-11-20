@@ -1,0 +1,11 @@
+All operation should be performed through terminal(CLI)
+
+1. Create a folder named as "class"
+2. under "class" folder create two new folder named as: "2021_fall" & "2021_spring"
+3. under "class/2021_fall/" create a text file named as: "student_list.txt"
+4. under "class/2021_fall/" create another text file named as: "sub_list.txt"
+5. Copy "student_list.txt" from "class/2021_fall/" to "class/2021_spring/"
+6. create another text file "sub_list.txt" under "class/2021_spring/"
+7. In both "student_list.txt" only user/owner have to read(r) and write(w) permission.
+8. In both "sub_list.txt", user should have read(r) and write(w) permission, group and other-user should have only read(r) permission.
+9. In "class" folder, all user can create new file and read that file.
